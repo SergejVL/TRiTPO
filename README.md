@@ -58,7 +58,7 @@
 
 ## 2.2 Интерфейс пользователя
  
-![окно авторизации] (https://github.com/SergejVL/TRiTPO/blob/master/Mockup%201.png) <br/>
+![окно авторизации] (https://github.com/eduardrogov/keyboard-teacher/blob/master/images/Меню.png) <br/>
 Рисунок 1. окно авторизации
 
 Окно авторизации (рисунок 1) должно содержать:
